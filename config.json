@@ -3,4 +3,7 @@
 ,
 	"port": "52305",
 	"name": "Vinit"
+        "login-enabled":"true",
+	"register-cmd":"/register (test1234(remember_no_spaces)) (test1234(remember_no_spaces))",
+	"login-cmd":"/login (test1234)"
 }
